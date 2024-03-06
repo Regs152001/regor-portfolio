@@ -511,7 +511,7 @@ a img.aligncenter {
 }
 
 .section.lb {
-    background-image: url('uploads/workplace.jpg') ;
+    background-image: url('uploads/workplace.png') ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1344,6 +1344,7 @@ overflow: hidden;
 float: left;
 margin: 0 10px;
 text-align: center;
+border-radius: 50%;
 }
 
 .single-service p{            
@@ -1969,7 +1970,7 @@ select.mobile-device {
 }
 
 #contact {
-    background-image: url('images/bldg.jpg') ;
+    background-image: url('images/bldg.gif') ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
